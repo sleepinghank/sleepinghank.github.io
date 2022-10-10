@@ -1,12 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hank&#39;s blog – Documentation</title>
-    <link>/docs/</link>
+    <link>https://sleepinghank.github.io/docs/</link>
     <description>Recent content in Documentation on Hank&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://sleepinghank.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +15,10 @@
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>/docs/tasks/beds/</link>
+      <link>https://sleepinghank.github.io/docs/tasks/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/beds/</guid>
+      <guid>https://sleepinghank.github.io/docs/tasks/beds/</guid>
       <description>
         
         
@@ -329,10 +328,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>/docs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>https://sleepinghank.github.io/docs/tasks/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>https://sleepinghank.github.io/docs/tasks/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -642,10 +641,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>/docs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>https://sleepinghank.github.io/docs/tasks/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>https://sleepinghank.github.io/docs/tasks/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -955,10 +954,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Multi-Bear Domicile Setup</title>
-      <link>/docs/tutorials/multi-bear/</link>
+      <link>https://sleepinghank.github.io/docs/tutorials/multi-bear/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tutorials/multi-bear/</guid>
+      <guid>https://sleepinghank.github.io/docs/tutorials/multi-bear/</guid>
       <description>
         
         
@@ -1268,10 +1267,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>/docs/tasks/porridge/</link>
+      <link>https://sleepinghank.github.io/docs/tasks/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/porridge/</guid>
+      <guid>https://sleepinghank.github.io/docs/tasks/porridge/</guid>
       <description>
         
         
@@ -1581,10 +1580,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Another Task</title>
-      <link>/docs/tasks/task/</link>
+      <link>https://sleepinghank.github.io/docs/tasks/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/task/</guid>
+      <guid>https://sleepinghank.github.io/docs/tasks/task/</guid>
       <description>
         
         
@@ -1894,10 +1893,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Another Tutorial</title>
-      <link>/docs/tutorials/tutorial2/</link>
+      <link>https://sleepinghank.github.io/docs/tutorials/tutorial2/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tutorials/tutorial2/</guid>
+      <guid>https://sleepinghank.github.io/docs/tutorials/tutorial2/</guid>
       <description>
         
         
@@ -2207,10 +2206,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Example Page</title>
-      <link>/docs/getting-started/example-page/</link>
+      <link>https://sleepinghank.github.io/docs/getting-started/example-page/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/getting-started/example-page/</guid>
+      <guid>https://sleepinghank.github.io/docs/getting-started/example-page/</guid>
       <description>
         
         
@@ -2520,10 +2519,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Docs: Parameter Reference</title>
-      <link>/docs/reference/parameter-reference/</link>
+      <link>https://sleepinghank.github.io/docs/reference/parameter-reference/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/reference/parameter-reference/</guid>
+      <guid>https://sleepinghank.github.io/docs/reference/parameter-reference/</guid>
       <description>
         
         

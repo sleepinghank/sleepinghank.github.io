@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hank&#39;s blog – Community</title>
-    <link>/en/community/</link>
+    <link>https://sleepinghank.github.io/en/community/</link>
     <description>Recent content in Community on Hank&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/en/community/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://sleepinghank.github.io/en/community/index.xml" rel="self" type="application/rss+xml" />
     
     
       
